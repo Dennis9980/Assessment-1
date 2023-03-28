@@ -4,4 +4,8 @@
     <string name="button_text">Start</string>
     <string name="task_text">Add your tasks here</string>
     <string name="task_subtext">My Tasks</string>
+    <string name="add_task">Write your task</string>
+    <string name="add_button">Add</string>
+    <string name="delete_button">Delete</string>
+    <string name="clear_button">Clear</string>
 </resources>
